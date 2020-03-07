@@ -1,4 +1,11 @@
-_assets
+/_assets
 .DS_Store
 *.woff
 *.woff2
+/webfonts
+.sass-cache
+.codekit-cache
+/.jekyll-cache
+.jekyll-metadata
+/_site
+db.php
